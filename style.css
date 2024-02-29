@@ -1,6 +1,6 @@
 p {
     text-decoration: underline;
-    color: darkred;
+    color: red;
     font-size: 30px;
     position: absolute;
     top: 50%;
@@ -16,5 +16,12 @@ p {
     border: 1px solid black;
     width: 500px;
     height: 500px;
-    background-color: bisque;
+    background-image: url(https://www.keblog.it/wp-content/uploads/2019/12/proporzioni-terra-universo-pianeti-02.jpg);
+    background-size: cover;
 }
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2019/01/02/02/37/background-3907905_960_720.jpg);
+    background-size: cover;
+}
+
